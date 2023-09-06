@@ -1,5 +1,7 @@
 ## SPA Universe
 
+<br>
+
 ![SPA Universe](.github/preview.png "Desktop Demo")
 
 ### Sobre
