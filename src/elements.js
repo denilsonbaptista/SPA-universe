@@ -1,0 +1,5 @@
+export const logo = document.querySelector(".logo")
+export const home = document.querySelector(".links a:nth-child(1)")
+export const universe = document.querySelector(".links a:nth-child(2)")
+export const exploration = document.querySelector(".links a:nth-child(3)")
+export const app = document.getElementById("app")
